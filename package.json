@@ -11,5 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Jonathan Galdino"
+	"author": {
+		"name": "Jonathan Galdino",
+		
+	}
 }
